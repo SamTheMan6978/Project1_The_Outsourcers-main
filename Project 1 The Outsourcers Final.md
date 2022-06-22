@@ -20,7 +20,7 @@ The emphasis of the program was concentrated on developing methods from top-to-b
 
 - Mohammad Sabih Ul Huda was responsible for developing the method: “Luhn\_Check\_Test.java” where his output was critical for the implementation of suggested fixes to the credit card number.
 - Ahmad Abubakar was in charge of developing the method: “Suggested\_Fix.java” that was responsible for providing and implementing suggestions for invalid numbers to pass the Luhn check.
-- Hassan was responsible for developing the method: “card.java” where he created a conditional statement necessary to ensure that the card entry satisfied the minimum and maximum requirements (from 13 to 16 digit characters)
+- Hassan Jasim was responsible for developing the method: “card.java” where he created a conditional statement necessary to ensure that the card entry satisfied the minimum and maximum requirements (from 13 to 16 digit characters)
 
 - Sami Sheikh was responsible for the development of the method: “credit\_card\_validation\_starting\_digits.java” which was essential to establish the categorisation of the cards based on their first two digits.
 
